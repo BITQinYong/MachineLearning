@@ -1,0 +1,16 @@
+﻿  matchTemplate.cpp
+d:\opencv3new\opencv3\opencv\mybuild\install\include\opencv2\core\mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\opencv3new\opencv3\opencv\mybuild\install\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\opencv3new\opencv3\opencv\mybuild\install\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\opencv3new\opencv3\opencv\mybuild\install\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+g:\大学\学习\数字图像处理\作业\大作业\认识狗狗\认识狗狗\认识狗狗\认识狗狗\matchtemplate.cpp(57): warning C4018: “<”: 有符号/无符号不匹配
+g:\大学\学习\数字图像处理\作业\大作业\认识狗狗\认识狗狗\认识狗狗\认识狗狗\matchtemplate.cpp(337): warning C4018: “<”: 有符号/无符号不匹配
+g:\大学\学习\数字图像处理\作业\大作业\认识狗狗\认识狗狗\认识狗狗\认识狗狗\matchtemplate.cpp(342): warning C4018: “<”: 有符号/无符号不匹配
+g:\大学\学习\数字图像处理\作业\大作业\认识狗狗\认识狗狗\认识狗狗\认识狗狗\matchtemplate.cpp(389): warning C4018: “<”: 有符号/无符号不匹配
+g:\大学\学习\数字图像处理\作业\大作业\认识狗狗\认识狗狗\认识狗狗\认识狗狗\matchtemplate.cpp(411): warning C4018: “<”: 有符号/无符号不匹配
+g:\大学\学习\数字图像处理\作业\大作业\认识狗狗\认识狗狗\认识狗狗\认识狗狗\matchtemplate.cpp(416): warning C4018: “<”: 有符号/无符号不匹配
+g:\大学\学习\数字图像处理\作业\大作业\认识狗狗\认识狗狗\认识狗狗\认识狗狗\matchtemplate.cpp(452): warning C4018: “<”: 有符号/无符号不匹配
+g:\大学\学习\数字图像处理\作业\大作业\认识狗狗\认识狗狗\认识狗狗\认识狗狗\matchtemplate.cpp(476): warning C4018: “<”: 有符号/无符号不匹配
+g:\大学\学习\数字图像处理\作业\大作业\认识狗狗\认识狗狗\认识狗狗\认识狗狗\matchtemplate.cpp(481): warning C4018: “<”: 有符号/无符号不匹配
+g:\大学\学习\数字图像处理\作业\大作业\认识狗狗\认识狗狗\认识狗狗\认识狗狗\matchtemplate.cpp(517): warning C4018: “<”: 有符号/无符号不匹配
+  认识狗狗.vcxproj -> G:\大学\学习\数字图像处理\作业\大作业\认识狗狗\认识狗狗\认识狗狗\Debug\认识狗狗.exe
